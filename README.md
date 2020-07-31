@@ -1,6 +1,7 @@
 # [Book Application] Deep Learning with Python
 
 This repo is to practice all the code from a book, [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
+![](./README/book_cover.jpg)
 
 I highly recommend those deep learning learner to buy this book, that explains the deep learning algorithm in the simplest wording and in the most practical way to display it.
 
